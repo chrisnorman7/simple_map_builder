@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       RendererBinding.instance.ensureSemantics();
     }
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Simple Map Builder',
       theme: ThemeData(
         // This is the theme of your application.
         //

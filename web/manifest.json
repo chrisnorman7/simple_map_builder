@@ -1,6 +1,6 @@
 {
-    "name": "simple_map_builder",
-    "short_name": "simple_map_builder",
+    "name": "Simple Map Builder",
+    "short_name": "Simple Map Builder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
